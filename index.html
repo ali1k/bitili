@@ -1,126 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bitili — AI platform for exploring knowledge graphs through natural conversation.">
+  <meta name="author" content="Bitili">
+  <meta name="robots" content="noindex, nofollow, noarchive, noimageindex, nosnippet">
+  <title>Bitili — Knowledge Intelligence</title>
 
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Bitili.com Website" />
-    <meta name="author" content="Ali Khalili" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;600;700&family=JetBrains+Mono:wght@400;500;600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <title>Our Bitili World...</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-
-    <!-- Plugin CSS -->
-    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
-
-    <!-- Theme CSS -->
-    <link href="css/creative.min.css" rel="stylesheet">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+  <link rel="icon" type="image/svg+xml" href="img/logo.svg">
+  <link rel="stylesheet" href="css/creative.css">
 </head>
+<body>
 
-<body id="page-top">
+  <nav class="nav">
+    <a href="/" class="nav-brand">
+      <img src="img/logo.svg" alt="Bitili" class="nav-logo">
+      Bitili
+    </a>
+    <a href="https://platform.bitili.com" class="nav-link">Sign In</a>
+  </nav>
 
-    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">B i t i l i</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-
-    <header>
-        <div class="header-content">
-            <div class="header-content-inner">
-                <h1 id="homeHeading">Welcome to our Bitili World...</h1>
-                <hr>
-                <p>This is a portal created by us (Ali and Bita) to share our life experiences with you!</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
-            </div>
-        </div>
-    </header>
-
-    <section class="bg-primary" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Who are we?</h2>
-                    <hr class="light">
-                    <p class="text-faded">A Semantic Web researcher + A Pharmaceutical Technology researcher</p>
-                    <a href="http://ali1k.com" class="page-scroll btn btn-default btn-xl sr-button">Ali Khalili</a>
-                    <a href="https://scholar.google.de/citations?user=WpUbQEEAAAAJ&hl=en" class="page-scroll btn btn-default btn-xl sr-button">Bita Sedaghati</a>
-                </div>
-            </div>
-        </div>
+  <main>
+    <section class="hero">
+      <canvas id="particles"></canvas>
+      <div class="hero-eyebrow">Knowledge Intelligence</div>
+      <h1>Every bit of intelligence, at your fingertips</h1>
+      <p>An AI platform for exploring knowledge graphs through natural conversation — no queries required.</p>
+      <a href="https://platform.bitili.com" class="btn-primary">
+        Explore the Platform
+        <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
     </section>
 
-    <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Let's Get In Touch!</h2>
-                    <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
-                </div>
-                <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>123-456-6789</p>
-                </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:ali1k@yahoo.com">ali1k@yahoo.com</a></p>
-                </div>
-            </div>
+    <section class="features">
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
         </div>
+        <h3>Ask Your Graph</h3>
+        <p>Query complex knowledge graphs using natural language. The AI agent translates your questions into graph queries and explains results with tables, charts, and interactive visualizations.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14l-5-4.87 6.91-1.01L12 2z"/></svg>
+        </div>
+        <h3>Automated Workflows</h3>
+        <p>Build governed pipelines that collect news, classify information, draft content, and deliver insights via Telegram and WhatsApp — on demand, on schedule, or triggered by events.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        </div>
+        <h3>Semantic Search</h3>
+        <p>Upload documents and search them alongside your graph data. Optional ontology reasoning with SPARQL, Datalog rules, and SHACL constraints for deeper insights.</p>
+      </div>
     </section>
+  </main>
 
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+  <section class="contact">
+    <div class="contact-inner">
+      <p class="contact-label">Contact</p>
+      <h2>Have a question?</h2>
+      <form class="contact-form" action="https://formsubmit.co/ali@bitili.com" method="POST">
+        <input type="hidden" name="_subject" value="New message from bitili.com">
+        <input type="hidden" name="_captcha" value="false">
+        <div class="form-row">
+          <input type="text" name="name" placeholder="Name" required>
+          <input type="email" name="email" placeholder="Email" required>
+        </div>
+        <textarea name="message" placeholder="Message" rows="3" required></textarea>
+        <button type="submit" class="btn-send">Send</button>
+      </form>
+    </div>
+  </section>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <footer class="footer">
+    <span>&copy; 2026 <a href="/">Bitili</a>. When every bit of intelligence matters.</span>
+  </footer>
 
-    <!-- Plugin JavaScript -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
-    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script>
+    (function () {
+      var canvas = document.getElementById('particles');
+      var ctx = canvas.getContext('2d');
+      var particles = [];
+      var count = 60;
+      var linkDist = 120;
+      var speed = 0.3;
+      var dotColor = 'rgba(61,90,254,0.35)';
+      var lineColor = 'rgba(61,90,254,0.08)';
+      var raf;
 
-    <!-- Theme JavaScript -->
-    <script src="js/creative.min.js"></script>
+      function resize() {
+        var hero = canvas.parentElement;
+        canvas.width = hero.offsetWidth;
+        canvas.height = hero.offsetHeight;
+      }
+
+      function init() {
+        resize();
+        particles = [];
+        var isMobile = canvas.width < 600;
+        count = isMobile ? 30 : 60;
+        linkDist = isMobile ? 90 : 120;
+        for (var i = 0; i < count; i++) {
+          particles.push({
+            x: Math.random() * canvas.width,
+            y: Math.random() * canvas.height,
+            vx: (Math.random() - 0.5) * speed,
+            vy: (Math.random() - 0.5) * speed,
+            r: Math.random() * 1.5 + 1
+          });
+        }
+      }
+
+      function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        for (var i = 0; i < particles.length; i++) {
+          var a = particles[i];
+          a.x += a.vx;
+          a.y += a.vy;
+          if (a.x < 0 || a.x > canvas.width) a.vx *= -1;
+          if (a.y < 0 || a.y > canvas.height) a.vy *= -1;
+
+          ctx.beginPath();
+          ctx.arc(a.x, a.y, a.r, 0, Math.PI * 2);
+          ctx.fillStyle = dotColor;
+          ctx.fill();
+
+          for (var j = i + 1; j < particles.length; j++) {
+            var b = particles[j];
+            var dx = a.x - b.x;
+            var dy = a.y - b.y;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < linkDist) {
+              ctx.beginPath();
+              ctx.moveTo(a.x, a.y);
+              ctx.lineTo(b.x, b.y);
+              ctx.strokeStyle = lineColor;
+              ctx.lineWidth = 1 - dist / linkDist;
+              ctx.stroke();
+            }
+          }
+        }
+        raf = requestAnimationFrame(draw);
+      }
+
+      init();
+      draw();
+      window.addEventListener('resize', function () {
+        cancelAnimationFrame(raf);
+        init();
+        draw();
+      });
+    })();
+  </script>
 
 </body>
-
 </html>
