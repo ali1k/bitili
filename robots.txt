@@ -1,6 +1,20 @@
-User-agent: *
-Disallow: /
+# Allow search engines
+User-agent: Googlebot
+Allow: /
 
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Block AI crawlers and scrapers
 User-agent: GPTBot
 Disallow: /
 
@@ -54,3 +68,10 @@ Disallow: /
 
 User-agent: Scrapy
 Disallow: /
+
+# Block all other bots by default
+User-agent: *
+Disallow: /
+
+# Sitemap
+Sitemap: https://bitili.com/sitemap.xml
