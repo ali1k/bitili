@@ -87,29 +87,104 @@
       </a>
     </section>
 
-    <section class="features">
-      <div class="feature-card">
-        <div class="feature-icon">
-          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
+    <section class="news" id="news">
+      <div class="news-inner">
+        <div class="section-head">
+          <p class="section-label">News intelligence</p>
+          <h2>What is happening in the knowledge-enriched AI domain</h2>
+          <p class="section-sub">The latest stories collected, classified, and enriched by Bitili's news intelligence graph — updated continuously.</p>
         </div>
-        <h3>Ask Your Graph</h3>
-        <p>Query complex knowledge graphs using natural language. The AI agent translates your questions into graph queries and explains results with tables, charts, and interactive visualizations.</p>
-      </div>
 
-      <div class="feature-card">
-        <div class="feature-icon">
-          <svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14l-5-4.87 6.91-1.01L12 2z"/></svg>
-        </div>
-        <h3>Automated Workflows</h3>
-        <p>Build governed pipelines that collect news, classify information, draft content, and deliver insights via Telegram and WhatsApp — on demand, on schedule, or triggered by events.</p>
-      </div>
+        <ul class="news-list" id="news-list" aria-live="polite" aria-busy="true">
+          <li class="news-skeleton"></li>
+          <li class="news-skeleton"></li>
+          <li class="news-skeleton"></li>
+        </ul>
 
-      <div class="feature-card">
-        <div class="feature-icon">
-          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        <p class="news-status" id="news-status" hidden></p>
+
+        <div class="news-footer">
+          <a href="https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&amp;minRelevance=50" target="_blank" rel="noopener">
+            Open the full feed
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
         </div>
-        <h3>Semantic Search</h3>
-        <p>Upload documents and search them alongside your graph data. Optional ontology reasoning with SPARQL, Datalog rules, and SHACL constraints for deeper insights.</p>
+      </div>
+    </section>
+
+    <section class="services">
+      <div class="services-inner">
+        <div class="services-copy">
+          <p class="section-label">Platform</p>
+          <h2>Knowledge-enriched AI services</h2>
+          <p>Bitili turns your data into a governed knowledge layer that AI agents can reason over. Model your domain, connect documents to your graph, and let agents answer questions, run workflows, and deliver results where your team already works.</p>
+          <a href="https://platform.bitili.com" class="btn-secondary">
+            Explore the Platform
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+
+        <ul class="capabilities">
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="18" r="2.5"/><circle cx="19" cy="18" r="2.5"/><path d="M12 7.5v4M10.5 11.5L6.5 16M13.5 11.5l4 4.5"/></svg>
+            </div>
+            <div>
+              <h3>Build ontologies</h3>
+              <p>Design classes, relationships, and constraints that give your data shared meaning across teams and systems.</p>
+            </div>
+          </li>
+
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
+            </div>
+            <div>
+              <h3>Query complex graphs</h3>
+              <p>Ask questions in natural language. The agent writes and runs graph queries, then explains the results with tables and charts.</p>
+            </div>
+          </li>
+
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14l-5-4.87 6.91-1.01L12 2z"/></svg>
+            </div>
+            <div>
+              <h3>Automated AI workflows</h3>
+              <p>Build governed pipelines that collect, classify, draft, and deliver — on demand, on schedule, or triggered by events.</p>
+            </div>
+          </li>
+
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+            </div>
+            <div>
+              <h3>Semantic search</h3>
+              <p>Search documents and graph data together, ranked by meaning rather than keywords.</p>
+            </div>
+          </li>
+
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8.5 12.5l2.5 2.5 4.5-5"/></svg>
+            </div>
+            <div>
+              <h3>Ontology reasoning</h3>
+              <p>Apply SPARQL, Datalog rules, and SHACL constraints to infer new facts and validate your knowledge base.</p>
+            </div>
+          </li>
+
+          <li class="capability">
+            <div class="capability-icon">
+              <svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            </div>
+            <div>
+              <h3>Deliver insights anywhere</h3>
+              <p>Send results to Telegram, WhatsApp, and the web without leaving the workflow.</p>
+            </div>
+          </li>
+        </ul>
       </div>
     </section>
   </main>
@@ -211,6 +286,8 @@
       });
     })();
   </script>
+
+  <script src="js/news.js"></script>
 
 </body>
 </html>

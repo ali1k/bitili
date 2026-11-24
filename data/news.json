@@ -1,0 +1,219 @@
+{
+  "generatedAt": "2026-11-24T12:20:57Z",
+  "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
+  "items": [
+    {
+      "title": "WIRED: AI-produced Riemann hypothesis solution challenges human comprehension",
+      "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "description": "WIRED reports that an Anthropic researcher produced a 17-million-line solution to the Riemann hypothesis that mathematicians will need months to understand, described as 'alien'.",
+      "pubDate": "Tue, 24 Nov 2026 10:15:00 GMT",
+      "categories": [
+        "AI",
+        "Human Comprehension",
+        "Riemann Hypothesis",
+        "AI-generated Mathematics",
+        "SCIENTIFIC_DISCOVERY"
+      ]
+    },
+    {
+      "title": "The Register: InferNode revives Bell Labs' Inferno OS for 64-bit systems",
+      "link": "https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
+      "description": "The Register reports that InferNode gives Bell Labs' Inferno OS, Plan 9's successor, a 64-bit update, with a new role containing AI agents that its developer says are optional features.",
+      "pubDate": "Tue, 24 Nov 2026 10:09:00 GMT",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Operating System",
+        "Software",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "UK government invests in defense startup building virtual training ground for military AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
+      "description": "The Register reports the UK government has invested in a defense startup building a virtual training ground intended to test whether military AI will work before real-world deployment, as part of a push for sovereign capability.",
+      "pubDate": "Tue, 24 Nov 2026 09:16:00 GMT",
+      "categories": [
+        "AI",
+        "Simulation",
+        "Military AI",
+        "Sovereign Capability",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "Signal joins United Airlines and banks in limiting AI agents over customer risks",
+      "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "description": "CNBC reports that privacy-focused messaging app Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents, citing customer risks.",
+      "pubDate": "Tue, 24 Nov 2026 07:25:41 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "Privacy",
+        "AI Agents",
+        "Risk Management",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "Meta launches Muse AI agent in the UK for task-based shopping and booking",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "description": "The Guardian reports Meta is launching its Muse AI assistant in the UK, letting users give agents tasks such as booking travel or buying presents, with glitches reported. The outlet says Muse has been a hit in the US, ranking first and second on Google and Apple's free app stores with millions of downloads.",
+      "pubDate": "Tue, 24 Nov 2026 06:00:07 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "AI Agents",
+        "Mobile Application",
+        "Task Automation",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "Amazon Bedrock launches Trusted Access API with Anthropic enterprise safeguard programs in public preview",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "description": "AWS announces a Bedrock trusted access program API for discovering, requesting, and enrolling in model provider programs. The first two public-preview offerings are Anthropic's Enterprise Frontier Safeguards and Enterprise Data Controls for Claude Fable models.",
+      "pubDate": "Tue, 24 Nov 2026 05:01:14 GMT",
+      "categories": [
+        "AI",
+        "Platform",
+        "Access Control",
+        "AI Agents",
+        "Model Provider Program",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "datasette-charts 0.2a0 adds agent integration for chat-driven chart creation",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "description": "The author describes a new Datasette charting plugin release that integrates with Datasette Agent, letting users request charts in chat. A demo video shows prompting the agent, inline chart display, opening a chart builder panel, and the agent describing chart changes.",
+      "pubDate": "Tue, 24 Nov 2026 04:24:29 GMT",
+      "categories": [
+        "Interaction design",
+        "AI",
+        "Analytic layer",
+        "Data management",
+        "Chart Generation",
+        "Plugin",
+        "Agent",
+        "Chat Interface",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "datasette-agent 0.7a1 improves iframe side panel navigation by fragment hashes",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "description": "The author describes a Datasette Agent release letting chat sessions open an iframe side panel that can navigate pages, with improved fragment-hash navigation for plugin state changes. It was built to fix bugs in the datasette-charts release.",
+      "pubDate": "Tue, 24 Nov 2026 03:45:57 GMT",
+      "categories": [
+        "Interaction design",
+        "AI",
+        "Data management",
+        "User Interface",
+        "Software Release",
+        "AI Agents",
+        "Plugin",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "LinkedIn post compares Standard, Graph and Agentic RAG architectures and when to use each",
+      "link": "https://www.linkedin.com/posts/jyoti-k-267a5935b_rag-is-evolving-but-which-approach-actually-activity-7530807779201298480-yCSB",
+      "description": "The post outlines trade-offs among Standard RAG for speed, Graph RAG for relationship-heavy knowledge, and Agentic RAG for multi-step planning, noting Graph RAG's higher build and maintenance costs. It argues the key question is choosing or combining architectures.",
+      "pubDate": "Tue, 24 Nov 2026 01:41:30 GMT",
+      "categories": [
+        "AI",
+        "Knowledge graphs",
+        "Context layer",
+        "Retrieval-Augmented Generation",
+        "Graph RAG",
+        "Agentic RAG",
+        "Architecture Selection",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Databricks announces catalog labels for sharing catalog metadata across platforms, engines, and agents.",
+      "link": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
+      "description": "The Databricks Blog announces support for catalog labels, described as a new capability in the Apache ecosystem for sharing catalog metadata across data platforms, engines, and agents.",
+      "pubDate": "Tue, 24 Nov 2026 01:30:00 GMT",
+      "categories": [
+        "Data management",
+        "AI Agents",
+        "Metadata",
+        "Data Catalog",
+        "Interoperability",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "Z.ai releases GLM 5.4, its first model using a looped transformer architecture",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "description": "The blog post reports that Chinese AI lab Z.ai has released GLM 5.4, described as its first looped transformer model, in which weight-shared layers run multiple iterations per forward pass. The author notes it is the second looped transformer mentioned recently, after Thinking Machines Lab's Inkling 2 Mini.",
+      "pubDate": "Mon, 23 Nov 2026 23:40:49 GMT",
+      "categories": [
+        "AI",
+        "Transformer Architecture",
+        "Large Language Models",
+        "Model Release",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "Commentary argues AI agents make the lack of shared business meaning more visible",
+      "link": "https://www.linkedin.com/pulse/wait-everyones-ontologies-now-sabrina-rashiq-hslqc",
+      "description": "The article argues that AI needs not just access to enterprise information but the definitions, relationships and rules that make it meaningful, and that AI agents have raised the stakes of missing shared business meaning.",
+      "pubDate": "Mon, 23 Nov 2026 23:03:52 GMT",
+      "categories": [
+        "Ontologies",
+        "Knowledge graphs",
+        "AI",
+        "AI Agents",
+        "Shared Business Meaning",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "TechCrunch: Anthropic launches Claude Ship for AI agents to review and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "description": "TechCrunch reports Anthropic launched Claude Ship, developer tools that let AI agents review, fix, and approve code changes. The article frames this as addressing bottlenecks from accumulating AI-generated code.",
+      "pubDate": "Mon, 23 Nov 2026 22:05:50 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "AI-Generated Code",
+        "Developer Tools",
+        "Code Review",
+        "AI Agents",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "description": "Ars Technica reports that state attorneys general are suing SpaceX to stop Grok from generating child sexual abuse images and revenge porn, while X says every Grok output is screened.",
+      "pubDate": "Mon, 23 Nov 2026 21:30:44 GMT",
+      "categories": [
+        "AI",
+        "Content Moderation",
+        "Generative AI",
+        "AI Regulation",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "Article traces RAG's origins from REALM to the 2020 Lewis et al. paper and retrieval baselines",
+      "link": "https://www.linkedin.com/pulse/what-retrieval-augmented-generation-baseline-control-chadi-abi-fadel-suihf",
+      "description": "The article recounts how REALM and the RAG paper addressed models holding facts only in weights, introducing retrievers over document collections, and criticizes vendor-focused RAG coverage that omits baselines and retrieval records.",
+      "pubDate": "Mon, 23 Nov 2026 21:30:06 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "Retrieval-Augmented Generation",
+        "Retriever",
+        "Knowledge Graph",
+        "OPINION_ANALYSIS"
+      ]
+    }
+  ]
+}
