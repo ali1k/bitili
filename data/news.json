@@ -1,7 +1,171 @@
 {
-  "generatedAt": "2026-11-25T08:05:18Z",
+  "generatedAt": "2026-11-25T21:38:39Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
+    {
+      "title": "Foreign AI companion apps are reshaping youth intimacy in Africa, Rest of World reports.",
+      "link": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/",
+      "description": "Rest of World reports that AI romance chatbots are being adopted by young people in Africa, and that the absence of local safeguards is raising concerns about addictive use and effects on communal values and children.",
+      "pubDate": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "categories": [
+        "AI",
+        "Interaction design",
+        "Safeguards",
+        "Human-AI Interaction",
+        "AI Companion",
+        "Addictive Use",
+        "Youth Intimacy",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Hugging Face blog post from IBM Research describes an Indic voice agent built with CUGA.",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "description": "The video description presents a Hugging Face blog post by IBM Research about an Indic voice agent built with CUGA; no further detail is available from the provided metadata.",
+      "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "Voice Agents",
+        "AI Agents",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "The Conversation explores research on whether conscious AI could deserve voting rights",
+      "link": "https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036",
+      "description": "The Conversation presents research on the idea that if AI ever became conscious, it would acquire moral rights, with implications for democracy. The excerpt frames this as an unsettling but research-grounded proposition.",
+      "pubDate": "Wed, 25 Nov 2026 09:56:12 GMT",
+      "categories": [
+        "AI",
+        "Moral Rights",
+        "Democracy",
+        "Conscious AI",
+        "Voting Rights",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Disney bids $20 million for Character.ai IP as chatbot startup enters bankruptcy sale",
+      "link": "https://www.fastcompany.com/91643044/disney-20-million-bet-characterai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "description": "Fast Company reports that Character.ai filed for Chapter 11 bankruptcy in Delaware and is holding a court-supervised sale, with Disney as opening bidder offering $20 million for a nonexclusive, perpetual license to key intellectual property. The piece frames the deal as a lesson in not paying peak hype prices for unproven technology.",
+      "pubDate": "Wed, 25 Nov 2026 09:00:00 GMT",
+      "categories": [
+        "AI",
+        "Acquisitions",
+        "AI Chatbots",
+        "Bankruptcy Sale",
+        "Intellectual Property",
+        "Hype Pricing",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "LinkedIn post promotes Apache Ossie semantic models episode and teases ontologies installment",
+      "link": "https://www.linkedin.com/posts/simonharrer_semantics-semanticlayer-apacheossie-activity-7531265231558332416-2K3j",
+      "description": "The LinkedIn post by Dr. Simon Harrer promotes episode 16 of the Entropy Explains series on semantic models with Apache Ossie, describing metrics defined once with synonyms for AI agents, and announces a next episode on ontologies. Claims are attributed to the post.",
+      "pubDate": "Wed, 25 Nov 2026 07:59:15 GMT",
+      "categories": [
+        "Analytic layer",
+        "Data management",
+        "Context layer",
+        "Semantic Interchange",
+        "AI Agents",
+        "Semantic Models",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "LinkedIn post promotes Semantica as a semantic layer beneath LLMs and vector stores",
+      "link": "https://www.linkedin.com/posts/gurisaroy_if-your-entire-ai-stack-runs-on-embeddings-activity-7531259771409141761-BYMg",
+      "description": "The LinkedIn post by Gurinderjeet Singh promotes Semantica, described as a semantic layer that sits under an LLM and vector store and 'stores meaning, not just similarity scores,' claiming it reached the top of GitHub trending. Claims are attributed to the post.",
+      "pubDate": "Wed, 25 Nov 2026 07:37:33 GMT",
+      "categories": [
+        "Context layer",
+        "AI",
+        "Semantic Layer",
+        "Meaning Storage",
+        "Large Language Models",
+        "Embedding",
+        "Vector Store",
+        "HYPE"
+      ]
+    },
+    {
+      "title": "Meta insiders concerned over push to AI content moderation, Guardian reports",
+      "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+      "description": "The Guardian reports that Meta employees have expressed concern about the company's push to replace human moderators with AI, claiming algorithmic speed means mistakes can happen at greater scale with potential political consequences. The company has experimented with AI-driven moderation since 2017.",
+      "pubDate": "Wed, 25 Nov 2026 07:00:08 GMT",
+      "categories": [
+        "AI",
+        "Algorithmic Error",
+        "AI Risk",
+        "AI Agents",
+        "Content Moderation",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "LinkedIn post offers a starting checklist for adopting the semantic layer",
+      "link": "https://www.linkedin.com/posts/borekdata_how-do-i-get-started-with-the-semantic-layer-activity-7531242949519683584-zpog",
+      "description": "The LinkedIn post by Dr. Alexander Borek advises starting semantic-layer adoption by collecting business questions, assigning metric owners, and establishing a sandbox-to-production path, arguing talk-to-data fails because nobody agrees what 'revenue' means. Claims are attributed to the post.",
+      "pubDate": "Wed, 25 Nov 2026 06:30:42 GMT",
+      "categories": [
+        "Analytic layer",
+        "Data management",
+        "Context layer",
+        "Talk-To-Data",
+        "Metric Ownership",
+        "Adoption Checklist",
+        "AI Agents",
+        "Dashboard",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "CNBC: AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "description": "CNBC reports that Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "pubDate": "Wed, 25 Nov 2026 06:29:46 GMT",
+      "categories": [
+        "AI",
+        "AI Debt",
+        "AI Build-Out",
+        "Big Tech",
+        "Debt Markets",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Balo builds legal PII anonymization with Ellf and Prodigy",
+      "link": "https://explosion.ai/blog/balo-pii-anonymization",
+      "description": "Explosion's blog presents a case study of how Balo moved from a side project with a single Prodigy license to private, local PII anonymization for courts, administrations and law firms, with Ellf helping improve accuracy of small private models.",
+      "pubDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "categories": [
+        "AI",
+        "Data management",
+        "Data Privacy",
+        "Model Accuracy",
+        "PII Anonymization",
+        "Anonymization",
+        "Privacy",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "Simon Willison examines three LLM inflection points in twelve months",
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "description": "Simon Willison shares a keynote and post arguing there have been three significant inflection points in LLM and coding-agent abilities in the past twelve months, reflecting on Claude Opus 4.5's handling of complex multi-system bugs.",
+      "pubDate": "Tue, 24 Nov 2026 23:02:07 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "Large Language Models",
+        "Inflection Point",
+        "Coding Agents",
+        "OPINION_ANALYSIS"
+      ]
+    },
     {
       "title": "New benchmark shows even advanced AI agents struggle with everyday tasks",
       "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
@@ -55,154 +219,6 @@
         "Mathematics",
         "AI-Assisted Proof",
         "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "The Conversation explains what AI chips are and why Nvidia's graphics chips became central to AI.",
-      "link": "https://theconversation.com/what-are-ai-chips-and-whats-so-special-about-nvidias-297128",
-      "description": "The Conversation explains what AI chips are and how Nvidia, dominant in graphics chips by the early 2000s, found those chips well suited for running AI.",
-      "pubDate": "Tue, 24 Nov 2026 20:08:14 GMT",
-      "categories": [
-        "AI",
-        "Artificial Intelligence",
-        "AI Chip",
-        "GPU",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "Databricks outlines data modeling best practices for an agentic customer data platform's data foundation.",
-      "link": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
-      "description": "The Databricks Blog presents data modeling best practices for an agentic customer data platform (CDP), Part 1 covering the data foundation, opening with a customer wishlist scenario.",
-      "pubDate": "Tue, 24 Nov 2026 19:36:52 GMT",
-      "categories": [
-        "Data management",
-        "AI",
-        "AI Agents",
-        "Customer Data Platform",
-        "Data Foundation",
-        "Data Modeling",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "BBC's Faisal Islam: fears over the AI boom persist despite Nvidia developments",
-      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Faisal Islam argues that legitimate fears about the AI boom existed before Huang's abrupt exit from Nvidia and that his return will not resolve them, per the excerpt.",
-      "pubDate": "Tue, 24 Nov 2026 18:21:43 GMT",
-      "categories": [
-        "AI",
-        "AI Boom",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "WIRED: Jensen Huang apologizes to Nvidia staff in first all-hands since return",
-      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "description": "WIRED reports that Nvidia's CEO apologized to employees in his first all-hands since his return, discussing his personal life, defending his reinstatement, and acknowledging his management style had hurt staff.",
-      "pubDate": "Tue, 24 Nov 2026 17:44:53 GMT",
-      "categories": [
-        "AI",
-        "Management",
-        "Corporate Communication",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "Roboflow launches Cloud Streaming, a managed service for vision AI on live video",
-      "link": "https://roboflow.com/blog/cloud-streaming",
-      "description": "The Roboflow blog describes Cloud Streaming as a managed service for running vision AI on live video, connecting cameras via stream URL, local connector, RTMP, or phone, with Roboflow managing the GPUs.",
-      "pubDate": "Tue, 24 Nov 2026 17:36:56 GMT",
-      "categories": [
-        "AI",
-        "Live Video",
-        "Managed Service",
-        "Vision AI",
-        "Camera",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "The Register: AI coding agent, browser and Mac tool exposed a financial firm's access key in under 6 minutes",
-      "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
-      "description": "The Register reports that an AI coding agent, a browser, and a Mac tool found a financial firm's access key in under six minutes, with no sophisticated malware or attack framework required.",
-      "pubDate": "Tue, 24 Nov 2026 17:00:00 GMT",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Security",
-        "Access Key",
-        "SECURITY_INCIDENT"
-      ]
-    },
-    {
-      "title": "The Register: Microsoft refreshes Copilot app search for users without AI subscription",
-      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
-      "description": "The Register reports Microsoft refreshed the Copilot app's search for users without an AI subscription, and notes Google's homepage demo leaves a familiar button out of the picture.",
-      "pubDate": "Tue, 24 Nov 2026 17:00:00 GMT",
-      "categories": [
-        "AI",
-        "Search",
-        "User Interface",
-        "AI Subscription",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "Simon Willison: GPT 6.2 Astra solves a historical mystery in 22 minutes",
-      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-      "description": "Simon Willison's blog relays history professor Mark Humphries' case study in which GPT-6.2 Astra, with minimal prompting, autonomously identified the creator of an anonymous 1808 sketchbook at Yale's Beinecke Library in 22 minutes using public sources.",
-      "pubDate": "Tue, 24 Nov 2026 16:53:59 GMT",
-      "categories": [
-        "AI",
-        "Historical Research",
-        "Large Language Models",
-        "AI Agents",
-        "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "The Register: Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics.",
-      "link": "https://www.theregister.com/databases/2026/11/24/microsoft-brings-serverless-postgresql-into-fabric-to-bridge-transactions-and-analytics/5311841",
-      "description": "The Register reports Microsoft's HorizonDB preview brings serverless PostgreSQL into Fabric to bridge transactions and analytics, following rivals' moves, with analysts warning tighter integration could make an eventual exit harder.",
-      "pubDate": "Tue, 24 Nov 2026 16:00:00 GMT",
-      "categories": [
-        "Data management",
-        "Analytic layer",
-        "PostgreSQL",
-        "Vendor Lock-In",
-        "Analytics",
-        "Serverless Database",
-        "Data Platform",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "MIT Technology Review: agentic AI is straining enterprise networks with surging traffic.",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "description": "MIT Technology Review reports enterprise networks are under severe strain as AI deployment becomes the biggest source of network demand, with agentic AI tasks generating an estimated 450% more network traffic than the same tasks done by human workers.",
-      "pubDate": "Tue, 24 Nov 2026 15:15:16 GMT",
-      "categories": [
-        "AI",
-        "Network Traffic",
-        "AI Agents",
-        "Enterprise Network",
-        "FACT"
-      ]
-    },
-    {
-      "title": "Gradient Flow argues AI agents need a new data layer as agents begin making decisions.",
-      "link": "https://gradientflow.com/your-ai-agents-can-connect-to-data-now-what/",
-      "description": "The Gradient Flow post introduces the idea of an 'Agent Data Runtime,' arguing the data stack becomes less forgiving when AI agents make decisions, since stale records, inconsistent definitions, and incorrect permissions can cause operational failures rather than just bad reports.",
-      "pubDate": "Tue, 24 Nov 2026 14:00:47 GMT",
-      "categories": [
-        "Data management",
-        "AI",
-        "Data Permissions",
-        "Data Layer",
-        "AI Agents",
-        "Data Quality",
-        "OPINION_ANALYSIS"
       ]
     }
   ]
