@@ -1,224 +1,209 @@
 {
-  "generatedAt": "2026-11-25T21:38:39Z",
+  "generatedAt": "2026-11-26T08:10:07Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
     {
-      "title": "Foreign AI companion apps are reshaping youth intimacy in Africa, Rest of World reports.",
-      "link": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/",
-      "description": "Rest of World reports that AI romance chatbots are being adopted by young people in Africa, and that the absence of local safeguards is raising concerns about addictive use and effects on communal values and children.",
-      "pubDate": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "title": "Roboflow explains routing images in Workflows with the OpenAI Decisions Switch block",
+      "link": "https://roboflow.com/blog/how-to-route-images-with-the-openai-decisions-api",
+      "description": "The Roboflow Blog describes routing each image in a Roboflow Workflow to one branch using the OpenAI Decisions Switch block, which prompts GPT-6 Luna and runs the case that clears a probability threshold.",
+      "pubDate": "Wed, 25 Nov 2026 20:35:11 GMT",
+      "categories": [
+        "AI",
+        "Image Routing",
+        "Prompting",
+        "Workflow",
+        "Probability Threshold",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "Roboflow describes building vision AI apps with plain prompts for citizen developers",
+      "link": "https://roboflow.com/blog/computer-vision-for-citizen-developers",
+      "description": "The Roboflow Blog describes building, training, and deploying vision AI apps with plain prompts using Roboflow Agent, MCP, or ChatGPT, aimed at citizen developers.",
+      "pubDate": "Wed, 25 Nov 2026 20:22:58 GMT",
+      "categories": [
+        "AI",
+        "Context layer",
+        "Computer Vision",
+        "Prompting",
+        "Citizen Developer",
+        "Agent",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+      "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+      "description": "Engadget reports that state attorneys general are attempting to block Character.AI's proposed sale of user chat histories, which officials say would include explicit conversations with children.",
+      "pubDate": "Wed, 25 Nov 2026 20:04:07 GMT",
+      "categories": [
+        "AI",
+        "Data management",
+        "AI Agents",
+        "Regulation",
+        "User Privacy",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "description": "TechCrunch reports OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences, meaning heavy users may reach limits sooner.",
+      "pubDate": "Wed, 25 Nov 2026 20:03:27 GMT",
+      "categories": [
+        "AI",
+        "Usage Metering",
+        "User Experience",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "Roboflow outlines a workflow from foundation model labeling to production vision models",
+      "link": "https://roboflow.com/blog/from-foundation-model-to-production-model-with-roboflow",
+      "description": "The Roboflow blog describes labeling images with Gemini, checking labels, querying annotations to find objects at the frame edge, selecting diverse training images, training RF-DETR, deploying to cloud or edge, and using active learning.",
+      "pubDate": "Wed, 25 Nov 2026 19:58:39 GMT",
+      "categories": [
+        "AI",
+        "Data management",
+        "Object Detection",
+        "Model Deployment",
+        "Foundation Model",
+        "Image Labeling",
+        "Active Learning",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "Roboflow describes teacher-student training workflow for defect detection models",
+      "link": "https://roboflow.com/blog/teacher-student-training-for-object-detection",
+      "description": "The Roboflow blog post describes training a defect detection model using teacher-student training: auto-labeling with a teacher model, reviewing the labels, and training RF-DETR in Roboflow.",
+      "pubDate": "Wed, 25 Nov 2026 19:45:23 GMT",
+      "categories": [
+        "AI",
+        "Auto Labeling",
+        "Defect Detection",
+        "Teacher-Student Training",
+        "Object Detection",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "Roboflow explains when to use anomaly detection versus object detection",
+      "link": "https://roboflow.com/blog/anomaly-detection-vs-object-detection",
+      "description": "The Roboflow blog post explains that anomaly detection learns what good looks like from good images alone, while object detection finds labeled defects, and describes when each approach fits visual inspection and when to use both.",
+      "pubDate": "Wed, 25 Nov 2026 19:22:52 GMT",
+      "categories": [
+        "AI",
+        "Object Detection",
+        "Visual Inspection",
+        "Anomaly Detection",
+        "NEW_LEARNING"
+      ]
+    },
+    {
+      "title": "ZDNET explains how to turn Claude artifacts into Windows and Mac desktop apps",
+      "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+      "description": "ZDNET reports that Anthropic's new 'install as app' feature makes it easy to turn Claude artifacts into desktop apps on Windows and Mac computers, noting some limitations.",
+      "pubDate": "Wed, 25 Nov 2026 18:54:05 GMT",
+      "categories": [
+        "AI",
+        "Generative UI",
+        "Desktop App",
+        "AI Assistant",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "Hugging Face blog lists an Allen AI piece on where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "description": "The video description presents a Hugging Face blog listing titled 'Where scientists draw the line on AI agents.' No excerpt is available, so the piece's specific arguments cannot be summarized.",
+      "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Google Research blog post on verifiable social reasoning for LLM assistants",
+      "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "description": "The Google Research Blog lists a post titled 'Verifiable Social Reasoning for LLM Assistants' under the category Generative AI. The available excerpt is too thin to describe the work's content.",
+      "pubDate": "Wed, 25 Nov 2026 17:10:27 GMT",
+      "categories": [
+        "AI",
+        "Generative AI",
+        "Social Reasoning",
+        "Large Language Models",
+        "SCIENTIFIC_DISCOVERY"
+      ]
+    },
+    {
+      "title": "Nvidia fallout exposes China's fragility on frontier AI, FT reports",
+      "link": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "description": "The Financial Times reports that the Nvidia fallout exposes China's fragility on frontier AI, attributing the difficulty to a lack of US-style capital markets and domestic commercial demand for fueling innovation.",
+      "pubDate": "Wed, 25 Nov 2026 16:00:04 GMT",
+      "categories": [
+        "AI",
+        "Capital Markets",
+        "AI Innovation",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "New York enacts five-year ban on AI chatbot-powered toys, The Guardian reports",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "description": "The Guardian reports New York Governor Kathy Hochul signed legislation imposing a five-year ban on manufacturing and selling toys powered by AI chatbots, including talking stuffed animals, dolls and robots that converse with children online; the attorney general says she would not hesitate to enforce it.",
+      "pubDate": "Wed, 25 Nov 2026 15:29:21 GMT",
+      "categories": [
+        "AI",
+        "Regulation",
+        "Toy",
+        "AI Chatbots",
+        "Child Safety",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "FT examines why economists struggle to forecast AI's economic impact",
+      "link": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+      "description": "The Financial Times reports that frontier labs and officials offer widely divergent predictions for AI-driven growth in the coming years, complicating economic forecasting.",
+      "pubDate": "Wed, 25 Nov 2026 14:49:44 GMT",
+      "categories": [
+        "AI",
+        "Economic Forecasting",
+        "Frontier Labs",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Gradient Flow defines the agent data runtime as a new data layer for AI agents",
+      "link": "https://gradientflow.com/what-is-an-agent-data-runtime/",
+      "description": "Ben Lorica's Gradient Flow argues the data stack becomes less forgiving as AI agents make decisions, since stale records, inconsistent definitions and incorrect permissions can cause operational failures, and introduces the concept of an agent data runtime.",
+      "pubDate": "Wed, 25 Nov 2026 12:00:35 GMT",
+      "categories": [
+        "Data management",
+        "AI",
+        "Context layer",
+        "Agent Data Runtime",
+        "Data Stack",
+        "Data Quality",
+        "AI Agents",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "ElevenLabs pitches AI voice agents as a replacement for government IVR phone menus",
+      "link": "https://elevenlabs.io/blog/fixing-front-door-government",
+      "description": "ElevenLabs's blog post argues that outdated IVR phone menus are the front door to government for millions and that governments are now adopting AI agents for several kinds of calls.",
+      "pubDate": "Wed, 25 Nov 2026 12:00:00 GMT",
       "categories": [
         "AI",
         "Interaction design",
-        "Safeguards",
-        "Human-AI Interaction",
-        "AI Companion",
-        "Addictive Use",
-        "Youth Intimacy",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Hugging Face blog post from IBM Research describes an Indic voice agent built with CUGA.",
-      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "description": "The video description presents a Hugging Face blog post by IBM Research about an Indic voice agent built with CUGA; no further detail is available from the provided metadata.",
-      "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
-      "categories": [
-        "AI",
-        "Context layer",
         "Voice Agents",
+        "Interactive Voice Response",
         "AI Agents",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "The Conversation explores research on whether conscious AI could deserve voting rights",
-      "link": "https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036",
-      "description": "The Conversation presents research on the idea that if AI ever became conscious, it would acquire moral rights, with implications for democracy. The excerpt frames this as an unsettling but research-grounded proposition.",
-      "pubDate": "Wed, 25 Nov 2026 09:56:12 GMT",
-      "categories": [
-        "AI",
-        "Moral Rights",
-        "Democracy",
-        "Conscious AI",
-        "Voting Rights",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Disney bids $20 million for Character.ai IP as chatbot startup enters bankruptcy sale",
-      "link": "https://www.fastcompany.com/91643044/disney-20-million-bet-characterai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "description": "Fast Company reports that Character.ai filed for Chapter 11 bankruptcy in Delaware and is holding a court-supervised sale, with Disney as opening bidder offering $20 million for a nonexclusive, perpetual license to key intellectual property. The piece frames the deal as a lesson in not paying peak hype prices for unproven technology.",
-      "pubDate": "Wed, 25 Nov 2026 09:00:00 GMT",
-      "categories": [
-        "AI",
-        "Acquisitions",
-        "AI Chatbots",
-        "Bankruptcy Sale",
-        "Intellectual Property",
-        "Hype Pricing",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "LinkedIn post promotes Apache Ossie semantic models episode and teases ontologies installment",
-      "link": "https://www.linkedin.com/posts/simonharrer_semantics-semanticlayer-apacheossie-activity-7531265231558332416-2K3j",
-      "description": "The LinkedIn post by Dr. Simon Harrer promotes episode 16 of the Entropy Explains series on semantic models with Apache Ossie, describing metrics defined once with synonyms for AI agents, and announces a next episode on ontologies. Claims are attributed to the post.",
-      "pubDate": "Wed, 25 Nov 2026 07:59:15 GMT",
-      "categories": [
-        "Analytic layer",
-        "Data management",
-        "Context layer",
-        "Semantic Interchange",
-        "AI Agents",
-        "Semantic Models",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "LinkedIn post promotes Semantica as a semantic layer beneath LLMs and vector stores",
-      "link": "https://www.linkedin.com/posts/gurisaroy_if-your-entire-ai-stack-runs-on-embeddings-activity-7531259771409141761-BYMg",
-      "description": "The LinkedIn post by Gurinderjeet Singh promotes Semantica, described as a semantic layer that sits under an LLM and vector store and 'stores meaning, not just similarity scores,' claiming it reached the top of GitHub trending. Claims are attributed to the post.",
-      "pubDate": "Wed, 25 Nov 2026 07:37:33 GMT",
-      "categories": [
-        "Context layer",
-        "AI",
-        "Semantic Layer",
-        "Meaning Storage",
-        "Large Language Models",
-        "Embedding",
-        "Vector Store",
+        "Government Service",
         "HYPE"
-      ]
-    },
-    {
-      "title": "Meta insiders concerned over push to AI content moderation, Guardian reports",
-      "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
-      "description": "The Guardian reports that Meta employees have expressed concern about the company's push to replace human moderators with AI, claiming algorithmic speed means mistakes can happen at greater scale with potential political consequences. The company has experimented with AI-driven moderation since 2017.",
-      "pubDate": "Wed, 25 Nov 2026 07:00:08 GMT",
-      "categories": [
-        "AI",
-        "Algorithmic Error",
-        "AI Risk",
-        "AI Agents",
-        "Content Moderation",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "LinkedIn post offers a starting checklist for adopting the semantic layer",
-      "link": "https://www.linkedin.com/posts/borekdata_how-do-i-get-started-with-the-semantic-layer-activity-7531242949519683584-zpog",
-      "description": "The LinkedIn post by Dr. Alexander Borek advises starting semantic-layer adoption by collecting business questions, assigning metric owners, and establishing a sandbox-to-production path, arguing talk-to-data fails because nobody agrees what 'revenue' means. Claims are attributed to the post.",
-      "pubDate": "Wed, 25 Nov 2026 06:30:42 GMT",
-      "categories": [
-        "Analytic layer",
-        "Data management",
-        "Context layer",
-        "Talk-To-Data",
-        "Metric Ownership",
-        "Adoption Checklist",
-        "AI Agents",
-        "Dashboard",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "CNBC: AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "description": "CNBC reports that Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
-      "pubDate": "Wed, 25 Nov 2026 06:29:46 GMT",
-      "categories": [
-        "AI",
-        "AI Debt",
-        "AI Build-Out",
-        "Big Tech",
-        "Debt Markets",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Balo builds legal PII anonymization with Ellf and Prodigy",
-      "link": "https://explosion.ai/blog/balo-pii-anonymization",
-      "description": "Explosion's blog presents a case study of how Balo moved from a side project with a single Prodigy license to private, local PII anonymization for courts, administrations and law firms, with Ellf helping improve accuracy of small private models.",
-      "pubDate": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "categories": [
-        "AI",
-        "Data management",
-        "Data Privacy",
-        "Model Accuracy",
-        "PII Anonymization",
-        "Anonymization",
-        "Privacy",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "Simon Willison examines three LLM inflection points in twelve months",
-      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-      "description": "Simon Willison shares a keynote and post arguing there have been three significant inflection points in LLM and coding-agent abilities in the past twelve months, reflecting on Claude Opus 4.5's handling of complex multi-system bugs.",
-      "pubDate": "Tue, 24 Nov 2026 23:02:07 GMT",
-      "categories": [
-        "AI",
-        "Context layer",
-        "Large Language Models",
-        "Inflection Point",
-        "Coding Agents",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "New benchmark shows even advanced AI agents struggle with everyday tasks",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "description": "TechCrunch reports that as millions embrace personal AI assistants, a new benchmark reveals even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "pubDate": "Tue, 24 Nov 2026 21:33:29 GMT",
-      "categories": [
-        "AI",
-        "Context layer",
-        "AI Assistant",
-        "AI Agents",
-        "Benchmarks",
-        "FACT"
-      ]
-    },
-    {
-      "title": "Maple raises $5.3M for encrypted AI products designed to protect user data",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "description": "TechCrunch reports that startup Maple raised $5.3 million to build AI products whose encrypted architecture is designed to prevent even the company itself from accessing users' private data.",
-      "pubDate": "Tue, 24 Nov 2026 21:19:52 GMT",
-      "categories": [
-        "AI",
-        "Data management",
-        "Data Privacy",
-        "Startup Funding",
-        "AI Product",
-        "Encrypted AI",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "Roboflow's Label by Example auto-labels images from a few of your own labeled examples",
-      "link": "https://roboflow.com/blog/label-by-example",
-      "description": "The Roboflow blog describes Label by Example, which shows an auto labeling model a few of the user's own labeled images so it follows the dataset's labeling rules without any training.",
-      "pubDate": "Tue, 24 Nov 2026 21:05:18 GMT",
-      "categories": [
-        "AI",
-        "Data management",
-        "Computer Vision",
-        "Auto Labeling",
-        "Image Dataset",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "AI-assisted proof of Riemann hypothesis work appears solid but its meaning is unclear",
-      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "description": "Ars Technica reports on a new AI-assisted proof related to the Riemann hypothesis, noting that the proof seems solid but it is not yet clear what it tells mathematicians.",
-      "pubDate": "Tue, 24 Nov 2026 20:34:53 GMT",
-      "categories": [
-        "AI",
-        "Mathematics",
-        "AI-Assisted Proof",
-        "SCIENTIFIC_DISCOVERY"
       ]
     }
   ]
