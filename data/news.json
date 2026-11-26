@@ -1,209 +1,217 @@
 {
-  "generatedAt": "2026-11-26T08:10:07Z",
+  "generatedAt": "2026-11-26T16:52:31Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
     {
-      "title": "Roboflow explains routing images in Workflows with the OpenAI Decisions Switch block",
-      "link": "https://roboflow.com/blog/how-to-route-images-with-the-openai-decisions-api",
-      "description": "The Roboflow Blog describes routing each image in a Roboflow Workflow to one branch using the OpenAI Decisions Switch block, which prompts GPT-6 Luna and runs the case that clears a probability threshold.",
-      "pubDate": "Wed, 25 Nov 2026 20:35:11 GMT",
+      "title": "Quoted commentary describes AI-generated voice and text becoming pervasive across media and communications",
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "description": "Simon Willison quotes Jack Despain Zhou arguing that generative AI has caused a 'great de-individualization,' with Claude's voice heard in videos and presentations and AI-written pitches appearing in inboxes.",
+      "pubDate": "Thu, 26 Nov 2026 15:09:31 GMT",
       "categories": [
         "AI",
-        "Image Routing",
-        "Prompting",
-        "Workflow",
-        "Probability Threshold",
+        "Human-AI Interaction",
+        "AI-Generated Content",
+        "Generative AI",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "TrustGraph masterclass argues only real ontologies can disambiguate word meanings that vector search conflates.",
+      "link": "https://www.youtube.com/watch?v=uz1PN01mFuk",
+      "description": "The video description presents a TrustGraph masterclass using a James Bond example to distinguish schemas from ontologies, arguing vector embeddings and auto-generated 'ontologies' cannot separate meanings of the same word, and that rule-based processes belong in graphs rather than tables.",
+      "pubDate": "Thu, 26 Nov 2026 15:00:38 GMT",
+      "categories": [
+        "Ontologies",
+        "Knowledge graphs",
+        "Vector Search",
+        "Database Schema",
+        "Embedding",
+        "Knowledge Graph",
+        "HYPE"
+      ]
+    },
+    {
+      "title": "Databricks rethinks read replicas for its Lakebase architecture",
+      "link": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
+      "description": "The Databricks blog examines the idea behind read replicas — adding capacity when an app gets busy — and rethinks their role in the Lakebase architecture.",
+      "pubDate": "Thu, 26 Nov 2026 13:45:08 GMT",
+      "categories": [
+        "Data management",
+        "Read Replica",
+        "Scalability",
+        "Architecture",
+        "Lakebase",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "LinkedIn post lists semantic layer standardization and PII masking as steps for AI-ready data.",
+      "link": "https://www.linkedin.com/posts/sumonigupta_your-ai-is-only-as-good-as-the-data-behind-activity-7531699640124219393-3w6P",
+      "description": "The uploader describes a checklist in which a semantic layer standardizes business definitions and metrics for consistent AI-generated insights, alongside PII masking to detect and redact sensitive data.",
+      "pubDate": "Thu, 26 Nov 2026 12:45:26 GMT",
+      "categories": [
+        "Analytic layer",
+        "Data management",
+        "PII Masking",
+        "Data Governance",
+        "Semantic Layer",
+        "AI-Ready Data",
         "NEW_LEARNING"
       ]
     },
     {
-      "title": "Roboflow describes building vision AI apps with plain prompts for citizen developers",
-      "link": "https://roboflow.com/blog/computer-vision-for-citizen-developers",
-      "description": "The Roboflow Blog describes building, training, and deploying vision AI apps with plain prompts using Roboflow Agent, MCP, or ChatGPT, aimed at citizen developers.",
-      "pubDate": "Wed, 25 Nov 2026 20:22:58 GMT",
+      "title": "LinkedIn post argues semantic layer hype masks a deeper need to restructure information systems.",
+      "link": "https://www.linkedin.com/posts/pierre-bonnet-engage-meta_why-is-the-semantic-layer-not-enough-to-achieve-activity-7531694204574687232-WIxF",
+      "description": "The uploader argues that marketing momentum around the semantic layer masks a deeper need to restructure existing information systems to achieve a genuine outcome, cut off in the snippet.",
+      "pubDate": "Thu, 26 Nov 2026 12:23:50 GMT",
+      "categories": [
+        "Analytic layer",
+        "Data management",
+        "Semantic Layer",
+        "Information System",
+        "Marketing Hype",
+        "HYPE"
+      ]
+    },
+    {
+      "title": "Hugging Face blog introduces llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "description": "The Hugging Face Blog post is listed as introducing a llama.cpp benchmark dashboard for AMD Ryzen and Radeon hardware; no excerpt is available to describe its contents.",
+      "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
       "categories": [
         "AI",
-        "Context layer",
-        "Computer Vision",
-        "Prompting",
-        "Citizen Developer",
-        "Agent",
+        "Benchmarks",
+        "AI Inference",
         "NEW_TOOL"
       ]
     },
     {
-      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
-      "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
-      "description": "Engadget reports that state attorneys general are attempting to block Character.AI's proposed sale of user chat histories, which officials say would include explicit conversations with children.",
-      "pubDate": "Wed, 25 Nov 2026 20:04:07 GMT",
+      "title": "LinkedIn post introduces Querio as git-native analytics for humans and agents.",
+      "link": "https://www.linkedin.com/posts/datarami_querio-git-native-analytics-for-humans-and-activity-7531678410247700480-8XzN",
+      "description": "The uploader describes Querio as git-native analytics and offers a primer on what context and semantic layers mean, arguing AI needs context such as warehouse contents and metric definitions.",
+      "pubDate": "Thu, 26 Nov 2026 11:21:04 GMT",
+      "categories": [
+        "Context layer",
+        "Analytic layer",
+        "Metric Definitions",
+        "Analytics",
+        "AI Agents",
+        "Semantic Layer",
+        "NEW_TOOL"
+      ]
+    },
+    {
+      "title": "Connected Data promotes content on data modeling, semantics and the ontology spectrum",
+      "link": "https://www.linkedin.com/posts/connecteddataworld_enterprisearchitecture-semantictechnology-activity-7531676435695177728-YguS",
+      "description": "The LinkedIn post by Connected Data promotes material on data modeling, semantics, the ontology spectrum and market reality, framed around the claim that connecting data means running a better business.",
+      "pubDate": "Thu, 26 Nov 2026 11:13:14 GMT",
+      "categories": [
+        "Ontologies",
+        "Data management",
+        "Enterprise Architecture",
+        "Semantics",
+        "Ontology Spectrum",
+        "Data Modeling",
+        "HYPE"
+      ]
+    },
+    {
+      "title": "UK's FCA says Meta declined joint testing of its Muse personal agent before UK rollout",
+      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "description": "WIRED reports that the UK Financial Conduct Authority complained Meta refused to share its Muse agent for joint testing ahead of its UK launch, warning against 'another force of attack' from agents.",
+      "pubDate": "Thu, 26 Nov 2026 10:51:27 GMT",
       "categories": [
         "AI",
-        "Data management",
+        "Context layer",
+        "Policy",
         "AI Agents",
-        "Regulation",
-        "User Privacy",
+        "Testing",
         "POLICY_REGULATION"
       ]
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "description": "TechCrunch reports OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences, meaning heavy users may reach limits sooner.",
-      "pubDate": "Wed, 25 Nov 2026 20:03:27 GMT",
+      "title": "Undisclosed AI use affected dozens of court cases in England and Wales in 2026",
+      "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+      "description": "The Guardian reports an investigation finding at least 25 court cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes, with judges complaining about misuse by lawyers, police officers and claimants.",
+      "pubDate": "Thu, 26 Nov 2026 10:00:51 GMT",
       "categories": [
         "AI",
-        "Usage Metering",
-        "User Experience",
+        "Fictitious Case Law",
+        "Court Case",
+        "AI Misuse",
+        "Witness Statement",
+        "SECURITY_INCIDENT"
+      ]
+    },
+    {
+      "title": "UK Home Office approved border system without a working fix for bad data",
+      "link": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
+      "description": "The Register reports the UK Home Office waved through a border system despite unresolved bad-data failings that risked wrongful detention, with an ICO reprimand and a temporary correction process taking more than a year to arrive.",
+      "pubDate": "Thu, 26 Nov 2026 09:30:00 GMT",
+      "categories": [
+        "Data management",
+        "Data Correction",
+        "Data Quality",
+        "Policy",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "Scheduled AURA Live Session with Juha Korpela announced amid ontology confusion",
+      "link": "https://www.linkedin.com/posts/shagility_scheduled-aura-live-session-juha-korpela-activity-7531647986477469696-CMpl",
+      "description": "The uploader announces a scheduled AURA Live Session with Juha Korpela, noting ongoing confusion about what an ontology is and is not, and speculating he will discuss the ontology space again.",
+      "pubDate": "Thu, 26 Nov 2026 09:20:11 GMT",
+      "categories": [
+        "Ontologies",
         "EVENT"
       ]
     },
     {
-      "title": "Roboflow outlines a workflow from foundation model labeling to production vision models",
-      "link": "https://roboflow.com/blog/from-foundation-model-to-production-model-with-roboflow",
-      "description": "The Roboflow blog describes labeling images with Gemini, checking labels, querying annotations to find objects at the frame edge, selecting diverse training images, training RF-DETR, deploying to cloud or edge, and using active learning.",
-      "pubDate": "Wed, 25 Nov 2026 19:58:39 GMT",
+      "title": "AI-Meta Lab post discusses combining ontologies, graphs, LLMs and neural networks",
+      "link": "https://www.linkedin.com/posts/ai-meta-lab_ai-interoperability-epistemology-activity-7531638909521334272-wGuQ",
+      "description": "The LinkedIn post by AI-Meta Lab describes combining building blocks including ontologies, graphs, algorithms, LLMs, specialized neural networks and software adapters, mixing symbolic and other approaches in many ways.",
+      "pubDate": "Thu, 26 Nov 2026 08:44:07 GMT",
       "categories": [
         "AI",
-        "Data management",
-        "Object Detection",
-        "Model Deployment",
-        "Foundation Model",
-        "Image Labeling",
-        "Active Learning",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "Roboflow describes teacher-student training workflow for defect detection models",
-      "link": "https://roboflow.com/blog/teacher-student-training-for-object-detection",
-      "description": "The Roboflow blog post describes training a defect detection model using teacher-student training: auto-labeling with a teacher model, reviewing the labels, and training RF-DETR in Roboflow.",
-      "pubDate": "Wed, 25 Nov 2026 19:45:23 GMT",
-      "categories": [
-        "AI",
-        "Auto Labeling",
-        "Defect Detection",
-        "Teacher-Student Training",
-        "Object Detection",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "Roboflow explains when to use anomaly detection versus object detection",
-      "link": "https://roboflow.com/blog/anomaly-detection-vs-object-detection",
-      "description": "The Roboflow blog post explains that anomaly detection learns what good looks like from good images alone, while object detection finds labeled defects, and describes when each approach fits visual inspection and when to use both.",
-      "pubDate": "Wed, 25 Nov 2026 19:22:52 GMT",
-      "categories": [
-        "AI",
-        "Object Detection",
-        "Visual Inspection",
-        "Anomaly Detection",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "ZDNET explains how to turn Claude artifacts into Windows and Mac desktop apps",
-      "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
-      "description": "ZDNET reports that Anthropic's new 'install as app' feature makes it easy to turn Claude artifacts into desktop apps on Windows and Mac computers, noting some limitations.",
-      "pubDate": "Wed, 25 Nov 2026 18:54:05 GMT",
-      "categories": [
-        "AI",
-        "Generative UI",
-        "Desktop App",
-        "AI Assistant",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "Hugging Face blog lists an Allen AI piece on where scientists draw the line on AI agents",
-      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "description": "The video description presents a Hugging Face blog listing titled 'Where scientists draw the line on AI agents.' No excerpt is available, so the piece's specific arguments cannot be summarized.",
-      "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Google Research blog post on verifiable social reasoning for LLM assistants",
-      "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
-      "description": "The Google Research Blog lists a post titled 'Verifiable Social Reasoning for LLM Assistants' under the category Generative AI. The available excerpt is too thin to describe the work's content.",
-      "pubDate": "Wed, 25 Nov 2026 17:10:27 GMT",
-      "categories": [
-        "AI",
-        "Generative AI",
-        "Social Reasoning",
+        "Ontologies",
+        "Knowledge graphs",
         "Large Language Models",
-        "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "Nvidia fallout exposes China's fragility on frontier AI, FT reports",
-      "link": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
-      "description": "The Financial Times reports that the Nvidia fallout exposes China's fragility on frontier AI, attributing the difficulty to a lack of US-style capital markets and domestic commercial demand for fueling innovation.",
-      "pubDate": "Wed, 25 Nov 2026 16:00:04 GMT",
-      "categories": [
-        "AI",
-        "Capital Markets",
-        "AI Innovation",
+        "Knowledge Graph",
+        "Neural Network",
+        "AI Interoperability",
+        "Symbolic AI",
         "OPINION_ANALYSIS"
       ]
     },
     {
-      "title": "New York enacts five-year ban on AI chatbot-powered toys, The Guardian reports",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "description": "The Guardian reports New York Governor Kathy Hochul signed legislation imposing a five-year ban on manufacturing and selling toys powered by AI chatbots, including talking stuffed animals, dolls and robots that converse with children online; the attorney general says she would not hesitate to enforce it.",
-      "pubDate": "Wed, 25 Nov 2026 15:29:21 GMT",
+      "title": "Entropy Explains episode covers ontologies with Apache Ossie and semantic models",
+      "link": "https://www.linkedin.com/posts/simonharrer_ontology-semantics-apacheossie-activity-7531628566095024130-PDCb",
+      "description": "Dr. Simon Harrer's post promotes Episode 17 of Entropy Explains on ontologies with Apache Ossie, covering entity types, relationships, rules, and mappings to semantic models and data contracts in an open Git-stored format readable by agents.",
+      "pubDate": "Thu, 26 Nov 2026 08:03:01 GMT",
       "categories": [
-        "AI",
-        "Regulation",
-        "Toy",
-        "AI Chatbots",
-        "Child Safety",
-        "POLICY_REGULATION"
-      ]
-    },
-    {
-      "title": "FT examines why economists struggle to forecast AI's economic impact",
-      "link": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
-      "description": "The Financial Times reports that frontier labs and officials offer widely divergent predictions for AI-driven growth in the coming years, complicating economic forecasting.",
-      "pubDate": "Wed, 25 Nov 2026 14:49:44 GMT",
-      "categories": [
-        "AI",
-        "Economic Forecasting",
-        "Frontier Labs",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Gradient Flow defines the agent data runtime as a new data layer for AI agents",
-      "link": "https://gradientflow.com/what-is-an-agent-data-runtime/",
-      "description": "Ben Lorica's Gradient Flow argues the data stack becomes less forgiving as AI agents make decisions, since stale records, inconsistent definitions and incorrect permissions can cause operational failures, and introduces the concept of an agent data runtime.",
-      "pubDate": "Wed, 25 Nov 2026 12:00:35 GMT",
-      "categories": [
+        "Ontologies",
         "Data management",
-        "AI",
+        "Analytic layer",
         "Context layer",
-        "Agent Data Runtime",
-        "Data Stack",
-        "Data Quality",
-        "AI Agents",
-        "OPINION_ANALYSIS"
+        "AI",
+        "Data Contract",
+        "Semantic Models",
+        "Entity Type",
+        "Agent",
+        "NEW_LEARNING"
       ]
     },
     {
-      "title": "ElevenLabs pitches AI voice agents as a replacement for government IVR phone menus",
-      "link": "https://elevenlabs.io/blog/fixing-front-door-government",
-      "description": "ElevenLabs's blog post argues that outdated IVR phone menus are the front door to government for millions and that governments are now adopting AI agents for several kinds of calls.",
-      "pubDate": "Wed, 25 Nov 2026 12:00:00 GMT",
+      "title": "Entropy Data explainer introduces ontologies and Apache Ossie as a portable open format.",
+      "link": "https://www.youtube.com/watch?v=vaq6-mMqRzE",
+      "description": "The video description presents an animated explainer on writing down what a business means in a tool-readable format, covering entity types, relationships, rules and mappings, and contrasting ontologies with semantic models via Apache Ossie.",
+      "pubDate": "Thu, 26 Nov 2026 08:00:27 GMT",
       "categories": [
-        "AI",
-        "Interaction design",
-        "Voice Agents",
-        "Interactive Voice Response",
-        "AI Agents",
-        "Government Service",
-        "HYPE"
+        "Ontologies",
+        "Data management",
+        "Open Format",
+        "Semantic Models",
+        "NEW_LEARNING"
       ]
     }
   ]
