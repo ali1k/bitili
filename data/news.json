@@ -1,7 +1,106 @@
 {
-  "generatedAt": "2026-11-26T21:27:05Z",
+  "generatedAt": "2026-11-27T08:20:49Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
+    {
+      "title": "SCMP opinion piece says a turbulent tech fortnight raises urgent questions about AI",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3375777/roller-coaster-fortnight-tech-raises-urgent-questions-about-ai",
+      "description": "The opinion column recounts a turbulent fortnight in technology, including Jensen Huang's resignation from and reinstatement at Nvidia, Anthropic's stock market debut, and a US tech share sell-off, arguing these events raise urgent questions about AI.",
+      "pubDate": "Thu, 26 Nov 2026 21:30:06 GMT",
+      "categories": [
+        "AI",
+        "Stock Market",
+        "Technology Industry",
+        "Corporate Leadership",
+        "Artificial Intelligence",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Nvidia pauses server chip shipments to four Southeast Asian countries",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "description": "TechCrunch reports Nvidia told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens its push to keep AI chips out of China.",
+      "pubDate": "Thu, 26 Nov 2026 20:03:54 GMT",
+      "categories": [
+        "AI",
+        "AI Chip",
+        "Supply Chains",
+        "Export Control",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "4Minds argues decoupled knowledge graphs let enterprises swap foundation models",
+      "link": "https://www.linkedin.com/posts/4mindsai_your-company-switches-foundation-models-next-activity-7531802933856751617-Kvia",
+      "description": "The excerpt presents a 4Minds LinkedIn post arguing that an enterprise AI platform's knowledge graph, memory and reasoning layers should be decoupled from any single foundation model so context work survives model switches. It frames these assets as intellectual property built from organizational data.",
+      "pubDate": "Thu, 26 Nov 2026 19:35:53 GMT",
+      "categories": [
+        "Knowledge graphs",
+        "Context layer",
+        "AI",
+        "Knowledge Graph",
+        "Enterprise AI Platform",
+        "Model Decoupling",
+        "Foundation Model",
+        "Intellectual Property",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Dance-studio AI experiment suggests people should help shape the technology they use",
+      "link": "https://theconversation.com/we-built-an-ai-you-can-dance-with-it-taught-us-about-developing-the-technology-responsibly-295348",
+      "description": "The Conversation describes an experiment in an Auckland dance studio where the authors built an AI people can dance with, suggesting an approach to AI that gives people more say in shaping the technology they use.",
+      "pubDate": "Thu, 26 Nov 2026 19:15:14 GMT",
+      "categories": [
+        "AI",
+        "Interaction design",
+        "Human-AI Interaction",
+        "Responsible AI",
+        "AI Development",
+        "SCIENTIFIC_DISCOVERY"
+      ]
+    },
+    {
+      "title": "Microsoft says hackers in China and North Korea are using the ARTEX AI tool to break into global tech systems",
+      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "description": "The Register reports Microsoft's warning that state-linked hackers in China and North Korea are using the ARTEX AI tool, described as an agentic offensive framework that automates familiar attack techniques, potentially breaching weak defenses in minutes.",
+      "pubDate": "Thu, 26 Nov 2026 19:04:00 GMT",
+      "categories": [
+        "AI",
+        "Offensive AI Tool",
+        "Automation",
+        "AI Agents",
+        "Cybersecurity",
+        "SECURITY_INCIDENT"
+      ]
+    },
+    {
+      "title": "SAP explores at least 10,000 job cuts as AI reshapes the software sector",
+      "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+      "description": "The Financial Times reports that SAP is exploring at least 10,000 job cuts, described as the latest European software group to restructure as AI affects the software sector.",
+      "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Workforce Restructuring",
+        "Software Industry",
+        "Job Cuts",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "description": "The Financial Times reports Andrew Bailey's warning that unreleased AI models have raised encryption concerns, with breakthroughs in mathematics stoking fears that data across financial systems is under threat.",
+      "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
+      "categories": [
+        "AI",
+        "AI Model",
+        "Financial Systems",
+        "Encryption",
+        "OPINION_ANALYSIS"
+      ]
+    },
     {
       "title": "Quoted commentary describes AI-generated voice and text becoming pervasive across media and communications",
       "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
@@ -28,6 +127,21 @@
         "Embedding",
         "Knowledge Graph",
         "HYPE"
+      ]
+    },
+    {
+      "title": "Antonello Monti post urges semantic interoperability as explicit federated digital twin capability",
+      "link": "https://www.linkedin.com/posts/antonellomonti_semantic-interoperability-for-federated-digital-activity-7531723886405533696-u-Df",
+      "description": "The excerpt is a LinkedIn post by Antonello Monti stating that the main conclusion is that semantic interoperability should become an explicit capability of federated Digital Twin and Data Space architecture.",
+      "pubDate": "Thu, 26 Nov 2026 14:21:47 GMT",
+      "categories": [
+        "Ontologies",
+        "Data management",
+        "Federated Architecture",
+        "Semantic Interoperability",
+        "Data Space",
+        "Digital Twins",
+        "OPINION_ANALYSIS"
       ]
     },
     {
@@ -98,120 +212,6 @@
         "AI Agents",
         "Semantic Layer",
         "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "Connected Data promotes content on data modeling, semantics and the ontology spectrum",
-      "link": "https://www.linkedin.com/posts/connecteddataworld_enterprisearchitecture-semantictechnology-activity-7531676435695177728-YguS",
-      "description": "The LinkedIn post by Connected Data promotes material on data modeling, semantics, the ontology spectrum and market reality, framed around the claim that connecting data means running a better business.",
-      "pubDate": "Thu, 26 Nov 2026 11:13:14 GMT",
-      "categories": [
-        "Ontologies",
-        "Data management",
-        "Enterprise Architecture",
-        "Semantics",
-        "Ontology Spectrum",
-        "Data Modeling",
-        "HYPE"
-      ]
-    },
-    {
-      "title": "UK's FCA says Meta declined joint testing of its Muse personal agent before UK rollout",
-      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-      "description": "WIRED reports that the UK Financial Conduct Authority complained Meta refused to share its Muse agent for joint testing ahead of its UK launch, warning against 'another force of attack' from agents.",
-      "pubDate": "Thu, 26 Nov 2026 10:51:27 GMT",
-      "categories": [
-        "AI",
-        "Context layer",
-        "Policy",
-        "AI Agents",
-        "Testing",
-        "POLICY_REGULATION"
-      ]
-    },
-    {
-      "title": "Undisclosed AI use affected dozens of court cases in England and Wales in 2026",
-      "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-      "description": "The Guardian reports an investigation finding at least 25 court cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes, with judges complaining about misuse by lawyers, police officers and claimants.",
-      "pubDate": "Thu, 26 Nov 2026 10:00:51 GMT",
-      "categories": [
-        "AI",
-        "Fictitious Case Law",
-        "Court Case",
-        "AI Misuse",
-        "Witness Statement",
-        "SECURITY_INCIDENT"
-      ]
-    },
-    {
-      "title": "UK Home Office approved border system without a working fix for bad data",
-      "link": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
-      "description": "The Register reports the UK Home Office waved through a border system despite unresolved bad-data failings that risked wrongful detention, with an ICO reprimand and a temporary correction process taking more than a year to arrive.",
-      "pubDate": "Thu, 26 Nov 2026 09:30:00 GMT",
-      "categories": [
-        "Data management",
-        "Data Correction",
-        "Data Quality",
-        "Policy",
-        "POLICY_REGULATION"
-      ]
-    },
-    {
-      "title": "Scheduled AURA Live Session with Juha Korpela announced amid ontology confusion",
-      "link": "https://www.linkedin.com/posts/shagility_scheduled-aura-live-session-juha-korpela-activity-7531647986477469696-CMpl",
-      "description": "The uploader announces a scheduled AURA Live Session with Juha Korpela, noting ongoing confusion about what an ontology is and is not, and speculating he will discuss the ontology space again.",
-      "pubDate": "Thu, 26 Nov 2026 09:20:11 GMT",
-      "categories": [
-        "Ontologies",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "AI-Meta Lab post discusses combining ontologies, graphs, LLMs and neural networks",
-      "link": "https://www.linkedin.com/posts/ai-meta-lab_ai-interoperability-epistemology-activity-7531638909521334272-wGuQ",
-      "description": "The LinkedIn post by AI-Meta Lab describes combining building blocks including ontologies, graphs, algorithms, LLMs, specialized neural networks and software adapters, mixing symbolic and other approaches in many ways.",
-      "pubDate": "Thu, 26 Nov 2026 08:44:07 GMT",
-      "categories": [
-        "AI",
-        "Ontologies",
-        "Knowledge graphs",
-        "Large Language Models",
-        "Knowledge Graph",
-        "Neural Network",
-        "AI Interoperability",
-        "Symbolic AI",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Entropy Explains episode covers ontologies with Apache Ossie and semantic models",
-      "link": "https://www.linkedin.com/posts/simonharrer_ontology-semantics-apacheossie-activity-7531628566095024130-PDCb",
-      "description": "Dr. Simon Harrer's post promotes Episode 17 of Entropy Explains on ontologies with Apache Ossie, covering entity types, relationships, rules, and mappings to semantic models and data contracts in an open Git-stored format readable by agents.",
-      "pubDate": "Thu, 26 Nov 2026 08:03:01 GMT",
-      "categories": [
-        "Ontologies",
-        "Data management",
-        "Analytic layer",
-        "Context layer",
-        "AI",
-        "Data Contract",
-        "Semantic Models",
-        "Entity Type",
-        "Agent",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "Entropy Data explainer introduces ontologies and Apache Ossie as a portable open format.",
-      "link": "https://www.youtube.com/watch?v=vaq6-mMqRzE",
-      "description": "The video description presents an animated explainer on writing down what a business means in a tool-readable format, covering entity types, relationships, rules and mappings, and contrasting ontologies with semantic models via Apache Ossie.",
-      "pubDate": "Thu, 26 Nov 2026 08:00:27 GMT",
-      "categories": [
-        "Ontologies",
-        "Data management",
-        "Open Format",
-        "Semantic Models",
-        "NEW_LEARNING"
       ]
     }
   ]
