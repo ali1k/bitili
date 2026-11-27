@@ -1,217 +1,207 @@
 {
-  "generatedAt": "2026-11-27T08:20:49Z",
+  "generatedAt": "2026-11-27T21:11:38Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
     {
-      "title": "SCMP opinion piece says a turbulent tech fortnight raises urgent questions about AI",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3375777/roller-coaster-fortnight-tech-raises-urgent-questions-about-ai",
-      "description": "The opinion column recounts a turbulent fortnight in technology, including Jensen Huang's resignation from and reinstatement at Nvidia, Anthropic's stock market debut, and a US tech share sell-off, arguing these events raise urgent questions about AI.",
-      "pubDate": "Thu, 26 Nov 2026 21:30:06 GMT",
+      "title": "AI shopping agents gain momentum but face retailer roadblocks",
+      "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "description": "CNBC reports that AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but are hitting roadblocks as Amazon and a growing number of sites block or restrict them.",
+      "pubDate": "Fri, 27 Nov 2026 16:43:14 GMT",
       "categories": [
         "AI",
-        "Stock Market",
-        "Technology Industry",
-        "Corporate Leadership",
-        "Artificial Intelligence",
+        "Human-AI Interaction",
+        "E-Commerce",
+        "AI Shopping Agent",
         "OPINION_ANALYSIS"
       ]
     },
     {
-      "title": "Nvidia pauses server chip shipments to four Southeast Asian countries",
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "description": "TechCrunch reports Nvidia told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens its push to keep AI chips out of China.",
-      "pubDate": "Thu, 26 Nov 2026 20:03:54 GMT",
+      "title": "L.A. school officials block Google's AI features on school-issued devices",
+      "link": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "description": "Fast Company reports that Los Angeles Unified School District has disabled Google's AI Overview summaries in searches on school devices, and districts may drop Google products unless a permanent AI workaround is offered.",
+      "pubDate": "Fri, 27 Nov 2026 15:31:06 GMT",
       "categories": [
         "AI",
-        "AI Chip",
-        "Supply Chains",
-        "Export Control",
+        "AI Policy",
+        "AI In Education",
+        "Content Filtering",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "LinkedIn post shares a recording of a monthly chat with Shane Gibson on ontologies and semantics.",
+      "link": "https://www.linkedin.com/posts/jkorpela_watch-now-recording-of-aura-juha-korpela-activity-7532086800388128768-Z5Eb",
+      "description": "The LinkedIn post by Juha Korpela announces a watchable recording of a monthly chat with Shane Gibson, described as covering ontologies, semantics, and the semantics of ontologies. The excerpt is promotional and offers no further detail on the discussion content.",
+      "pubDate": "Fri, 27 Nov 2026 14:23:52 GMT",
+      "categories": [
+        "Ontologies",
+        "Semantics",
         "EVENT"
       ]
     },
     {
-      "title": "4Minds argues decoupled knowledge graphs let enterprises swap foundation models",
-      "link": "https://www.linkedin.com/posts/4mindsai_your-company-switches-foundation-models-next-activity-7531802933856751617-Kvia",
-      "description": "The excerpt presents a 4Minds LinkedIn post arguing that an enterprise AI platform's knowledge graph, memory and reasoning layers should be decoupled from any single foundation model so context work survives model switches. It frames these assets as intellectual property built from organizational data.",
-      "pubDate": "Thu, 26 Nov 2026 19:35:53 GMT",
+      "title": "The Register: Birmingham's Oracle debacle bill reaches £128M",
+      "link": "https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563",
+      "description": "The Register reports the cost of Birmingham's delayed Oracle implementation, a replacement for SAP that the outlet says helped bankrupt the city, has reached £128M, with the true cost possibly much higher.",
+      "pubDate": "Fri, 27 Nov 2026 14:03:00 GMT",
       "categories": [
-        "Knowledge graphs",
-        "Context layer",
+        "Data management",
+        "Enterprise Software",
+        "Public Sector IT",
+        "Project Cost Overrun",
+        "FACT"
+      ]
+    },
+    {
+      "title": "IEEE Spectrum profiles an emergency physician who became Boston Children's Hospital's first clinical AI engineer",
+      "link": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "description": "IEEE Spectrum profiles Dinesh Rai, an emergency physician with a clinical informatics fellowship who took a 2023 prompt engineer role at Boston Children's Hospital and became its first clinical AI engineer. The piece describes his unusual path combining medicine and self-taught coding.",
+      "pubDate": "Fri, 27 Nov 2026 14:00:01 GMT",
+      "categories": [
         "AI",
-        "Knowledge Graph",
-        "Enterprise AI Platform",
-        "Model Decoupling",
-        "Foundation Model",
-        "Intellectual Property",
+        "Prompt Engineering",
+        "Clinical AI Engineer",
+        "Generative AI",
+        "Clinical Informatics",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "FT argues Delaware's proposed law would gut human accountability for agentic AI",
+      "link": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1",
+      "description": "The Financial Times reports on a Delaware proposed law that, per the outlet, would gut human accountability for agentic AI companies, calling it a dangerous plan.",
+      "pubDate": "Fri, 27 Nov 2026 12:00:05 GMT",
+      "categories": [
+        "AI",
+        "Human Accountability",
+        "AI Policy",
+        "Agentic AI",
+        "POLICY_REGULATION"
+      ]
+    },
+    {
+      "title": "Europe's AI sovereignty push: cloud spending booms but models and chips stay abroad",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "description": "The Register examines Europe's AI sovereignty push, arguing that while datacenter spending is booming, the models, chips, and clout largely remain in the US and Asia.",
+      "pubDate": "Fri, 27 Nov 2026 11:32:00 GMT",
+      "categories": [
+        "AI",
+        "Cloud Computing",
+        "AI Model",
+        "AI Sovereignty",
+        "AI Chip",
         "OPINION_ANALYSIS"
       ]
     },
     {
-      "title": "Dance-studio AI experiment suggests people should help shape the technology they use",
-      "link": "https://theconversation.com/we-built-an-ai-you-can-dance-with-it-taught-us-about-developing-the-technology-responsibly-295348",
-      "description": "The Conversation describes an experiment in an Auckland dance studio where the authors built an AI people can dance with, suggesting an approach to AI that gives people more say in shaping the technology they use.",
-      "pubDate": "Thu, 26 Nov 2026 19:15:14 GMT",
+      "title": "Hard Fork podcast explores how AI is transforming mathematics",
+      "link": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "description": "The New York Times' Hard Fork podcast episode covers how AI is transforming mathematics, quoting Terence Tao: \"One thing that A.I. has done is that it's given us answers without insight, without understanding.\"",
+      "pubDate": "Fri, 27 Nov 2026 11:00:20 GMT",
       "categories": [
         "AI",
-        "Interaction design",
+        "AI for Mathematics",
         "Human-AI Interaction",
-        "Responsible AI",
-        "AI Development",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "Guardian reports first UK purchase by an AI agent using cardless payment in FCA sandbox trial",
+      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "description": "The Guardian reports that a Papa John's order became the first UK purchase made by an AI agent using cardless payment technology, tested in the FCA's regulated sandbox with Lloyds Bank and TrueLayer.",
+      "pubDate": "Fri, 27 Nov 2026 09:53:11 GMT",
+      "categories": [
+        "AI",
+        "Cardless Payment",
+        "Regulatory Sandbox",
+        "AI Agents",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "LinkedIn post promotes a Power BI technique for faster semantic models using run-length encoding.",
+      "link": "https://www.linkedin.com/posts/dotykier_power-bi-faster-semantic-models-with-run-length-activity-7531988846318620672-vhb8",
+      "description": "The LinkedIn post by dotykier promotes guidance for improving performance in large Power BI semantic models using run-length encoding. The excerpt is promotional and does not detail the technique's implementation or measured results.",
+      "pubDate": "Fri, 27 Nov 2026 07:54:38 GMT",
+      "categories": [
+        "Analytic layer",
+        "Performance Optimization",
+        "Run-Length Encoding",
+        "Semantic Models",
+        "HYPE"
+      ]
+    },
+    {
+      "title": "Retailers weigh liability questions as AI shopping assistants arrive for Black Friday",
+      "link": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+      "description": "The Guardian reports that retailers are entering unknown territory with AI shopping assistants such as Meta's Muse, which promises to find deals and source gifts, while brands are unlikely to hand agents full control and question liability when bots err.",
+      "pubDate": "Fri, 27 Nov 2026 07:00:56 GMT",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Human-AI Interaction",
+        "Liability",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
+      "title": "AutoformBench benchmarks AI agents on Lean 4 formalization of advanced mathematics",
+      "link": "https://arxiv.org/abs/2611.33165",
+      "description": "The arXiv preprint introduces AutoformBench, 341 Lean 4 formalization tasks from 24 advanced mathematical sources, where mathematicians audited target statements and agents must construct missing definitions, lemmas, and supporting infrastructure rather than prove isolated theorems.",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "categories": [
+        "AI",
+        "Formal Verification",
+        "Theorem Proving",
+        "AI Agents",
+        "Benchmarks",
         "SCIENTIFIC_DISCOVERY"
       ]
     },
     {
-      "title": "Microsoft says hackers in China and North Korea are using the ARTEX AI tool to break into global tech systems",
-      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
-      "description": "The Register reports Microsoft's warning that state-linked hackers in China and North Korea are using the ARTEX AI tool, described as an agentic offensive framework that automates familiar attack techniques, potentially breaching weak defenses in minutes.",
-      "pubDate": "Thu, 26 Nov 2026 19:04:00 GMT",
+      "title": "Clinically grounded harm taxonomy and MindGuard2 safety model for LLM mental health support",
+      "link": "https://arxiv.org/abs/2611.33263",
+      "description": "The arXiv preprint proposes a taxonomy characterizing harm along what, who, and when dimensions, separating harm characterization from intervention decisions so safety policies can be updated and audited outside model weights; the authors validate it with clinicians and train MindGuard2, a 35B-A3B model.",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
       "categories": [
         "AI",
-        "Offensive AI Tool",
-        "Automation",
-        "AI Agents",
-        "Cybersecurity",
-        "SECURITY_INCIDENT"
-      ]
-    },
-    {
-      "title": "SAP explores at least 10,000 job cuts as AI reshapes the software sector",
-      "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
-      "description": "The Financial Times reports that SAP is exploring at least 10,000 job cuts, described as the latest European software group to restructure as AI affects the software sector.",
-      "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
-      "categories": [
-        "AI",
-        "Artificial Intelligence",
-        "Workforce Restructuring",
-        "Software Industry",
-        "Job Cuts",
-        "EVENT"
-      ]
-    },
-    {
-      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
-      "description": "The Financial Times reports Andrew Bailey's warning that unreleased AI models have raised encryption concerns, with breakthroughs in mathematics stoking fears that data across financial systems is under threat.",
-      "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
-      "categories": [
-        "AI",
-        "AI Model",
-        "Financial Systems",
-        "Encryption",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Quoted commentary describes AI-generated voice and text becoming pervasive across media and communications",
-      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-      "description": "Simon Willison quotes Jack Despain Zhou arguing that generative AI has caused a 'great de-individualization,' with Claude's voice heard in videos and presentations and AI-written pitches appearing in inboxes.",
-      "pubDate": "Thu, 26 Nov 2026 15:09:31 GMT",
-      "categories": [
-        "AI",
-        "Human-AI Interaction",
-        "AI-Generated Content",
-        "Generative AI",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "TrustGraph masterclass argues only real ontologies can disambiguate word meanings that vector search conflates.",
-      "link": "https://www.youtube.com/watch?v=uz1PN01mFuk",
-      "description": "The video description presents a TrustGraph masterclass using a James Bond example to distinguish schemas from ontologies, arguing vector embeddings and auto-generated 'ontologies' cannot separate meanings of the same word, and that rule-based processes belong in graphs rather than tables.",
-      "pubDate": "Thu, 26 Nov 2026 15:00:38 GMT",
-      "categories": [
         "Ontologies",
-        "Knowledge graphs",
-        "Vector Search",
-        "Database Schema",
-        "Embedding",
-        "Knowledge Graph",
-        "HYPE"
+        "Large Language Models",
+        "Policy",
+        "Taxonomy",
+        "AI Safety",
+        "SCIENTIFIC_DISCOVERY"
       ]
     },
     {
-      "title": "Antonello Monti post urges semantic interoperability as explicit federated digital twin capability",
-      "link": "https://www.linkedin.com/posts/antonellomonti_semantic-interoperability-for-federated-digital-activity-7531723886405533696-u-Df",
-      "description": "The excerpt is a LinkedIn post by Antonello Monti stating that the main conclusion is that semantic interoperability should become an explicit capability of federated Digital Twin and Data Space architecture.",
-      "pubDate": "Thu, 26 Nov 2026 14:21:47 GMT",
-      "categories": [
-        "Ontologies",
-        "Data management",
-        "Federated Architecture",
-        "Semantic Interoperability",
-        "Data Space",
-        "Digital Twins",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "Databricks rethinks read replicas for its Lakebase architecture",
-      "link": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
-      "description": "The Databricks blog examines the idea behind read replicas — adding capacity when an app gets busy — and rethinks their role in the Lakebase architecture.",
-      "pubDate": "Thu, 26 Nov 2026 13:45:08 GMT",
-      "categories": [
-        "Data management",
-        "Read Replica",
-        "Scalability",
-        "Architecture",
-        "Lakebase",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "LinkedIn post lists semantic layer standardization and PII masking as steps for AI-ready data.",
-      "link": "https://www.linkedin.com/posts/sumonigupta_your-ai-is-only-as-good-as-the-data-behind-activity-7531699640124219393-3w6P",
-      "description": "The uploader describes a checklist in which a semantic layer standardizes business definitions and metrics for consistent AI-generated insights, alongside PII masking to detect and redact sensitive data.",
-      "pubDate": "Thu, 26 Nov 2026 12:45:26 GMT",
-      "categories": [
-        "Analytic layer",
-        "Data management",
-        "PII Masking",
-        "Data Governance",
-        "Semantic Layer",
-        "AI-Ready Data",
-        "NEW_LEARNING"
-      ]
-    },
-    {
-      "title": "LinkedIn post argues semantic layer hype masks a deeper need to restructure information systems.",
-      "link": "https://www.linkedin.com/posts/pierre-bonnet-engage-meta_why-is-the-semantic-layer-not-enough-to-achieve-activity-7531694204574687232-WIxF",
-      "description": "The uploader argues that marketing momentum around the semantic layer masks a deeper need to restructure existing information systems to achieve a genuine outcome, cut off in the snippet.",
-      "pubDate": "Thu, 26 Nov 2026 12:23:50 GMT",
-      "categories": [
-        "Analytic layer",
-        "Data management",
-        "Semantic Layer",
-        "Information System",
-        "Marketing Hype",
-        "HYPE"
-      ]
-    },
-    {
-      "title": "Hugging Face blog introduces llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "description": "The Hugging Face Blog post is listed as introducing a llama.cpp benchmark dashboard for AMD Ryzen and Radeon hardware; no excerpt is available to describe its contents.",
-      "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "title": "arXiv preprint proposes constraint-aware test-time scoring for selecting LLM and VLM candidate answers",
+      "link": "https://arxiv.org/abs/2611.33161",
+      "description": "The preprint proposes a scoring framework combining hard checks every candidate answer must pass with softer checks blended into one score, using a drafting model, a configuring model that selects and weights checks, and scoring models. It is applied to tasks including secure code generation (CWEval) and robot manipulation planning (LIBERO with added safety checks).",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
       "categories": [
         "AI",
-        "Benchmarks",
-        "AI Inference",
-        "NEW_TOOL"
-      ]
-    },
-    {
-      "title": "LinkedIn post introduces Querio as git-native analytics for humans and agents.",
-      "link": "https://www.linkedin.com/posts/datarami_querio-git-native-analytics-for-humans-and-activity-7531678410247700480-8XzN",
-      "description": "The uploader describes Querio as git-native analytics and offers a primer on what context and semantic layers mean, arguing AI needs context such as warehouse contents and metric definitions.",
-      "pubDate": "Thu, 26 Nov 2026 11:21:04 GMT",
-      "categories": [
         "Context layer",
-        "Analytic layer",
-        "Metric Definitions",
-        "Analytics",
-        "AI Agents",
-        "Semantic Layer",
-        "NEW_TOOL"
+        "Large Language Models",
+        "Benchmarks",
+        "Vision-Language Model",
+        "Robot Manipulation Planning",
+        "Scoring Framework",
+        "SCIENTIFIC_DISCOVERY"
+      ]
+    },
+    {
+      "title": "arXiv preprint evaluates general-purpose decision models for guiding AI configuration tuning",
+      "link": "https://arxiv.org/abs/2611.33190",
+      "description": "The preprint investigates whether general-purpose decision models, using Jev as a deployed representative, can guide AI configuration tuning as optimizers, performance predictors and region guiders. Across eight tuning tasks, conventional optimizers and predictors mostly outperform it, though region guidance found configurations with lower perplexity than the native tuner.",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
+      "categories": [
+        "AI",
+        "Configuration Tuning",
+        "Performance Prediction",
+        "Optimizer",
+        "Decision Model",
+        "Perplexity",
+        "SCIENTIFIC_DISCOVERY"
       ]
     }
   ]
