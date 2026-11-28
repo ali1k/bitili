@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-27T21:11:38Z",
+  "generatedAt": "2026-11-28T07:41:27Z",
   "source": "https://platform.bitili.com/api/v1/news-intelligence/rss.xml?period=7&minRelevance=50",
   "items": [
+    {
+      "title": "LA school district blocks Google's AI search features, per Engadget",
+      "link": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+      "description": "Engadget reports that an LA school district has blocked Google's AI search features, while the company has insisted that AI overviews and search are a package deal.",
+      "pubDate": "Fri, 27 Nov 2026 22:00:08 GMT",
+      "categories": [
+        "AI",
+        "Content Blocking",
+        "AI Search",
+        "AI Overviews",
+        "EVENT"
+      ]
+    },
+    {
+      "title": "FT asks whether AI can crack encryption, citing data-leak risks in banking and commerce",
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "description": "The Financial Times excerpt says new models' advancing capabilities raise concerns over data-leak risks in banking and commerce, under the title 'Can AI crack encryption?'. No specific models, results or methods are given in the snippet.",
+      "pubDate": "Fri, 27 Nov 2026 18:16:51 GMT",
+      "categories": [
+        "AI",
+        "Data Leak Risk",
+        "Encryption",
+        "AI Capability",
+        "OPINION_ANALYSIS"
+      ]
+    },
     {
       "title": "AI shopping agents gain momentum but face retailer roadblocks",
       "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
@@ -29,6 +55,20 @@
       ]
     },
     {
+      "title": "LinkedIn post says ontologies and knowledge graphs ground AI but need visual approaches",
+      "link": "https://www.linkedin.com/posts/emanuelelaurenzi_nest-knowledgegraphs-ontologies-activity-7532101149382868992-2zFl",
+      "description": "A LinkedIn post by Emanuele Laurenzi states that ontologies and knowledge graphs provide grounding but cannot remain the exclusive domain of ontology engineers, pointing to visual approaches. The snippet is short and does not describe a specific method or evaluation.",
+      "pubDate": "Fri, 27 Nov 2026 15:20:53 GMT",
+      "categories": [
+        "Knowledge graphs",
+        "Ontologies",
+        "Knowledge Graph",
+        "Grounding",
+        "Visual Approach",
+        "OPINION_ANALYSIS"
+      ]
+    },
+    {
       "title": "LinkedIn post shares a recording of a monthly chat with Shane Gibson on ontologies and semantics.",
       "link": "https://www.linkedin.com/posts/jkorpela_watch-now-recording-of-aura-juha-korpela-activity-7532086800388128768-Z5Eb",
       "description": "The LinkedIn post by Juha Korpela announces a watchable recording of a monthly chat with Shane Gibson, described as covering ontologies, semantics, and the semantics of ontologies. The excerpt is promotional and offers no further detail on the discussion content.",
@@ -50,6 +90,22 @@
         "Public Sector IT",
         "Project Cost Overrun",
         "FACT"
+      ]
+    },
+    {
+      "title": "Apache Data Lakehouse weekly covers cardinality proposals, compliance suites and 0.3.0 release",
+      "link": "https://www.linkedin.com/pulse/apache-data-lakehouse-weekly-november-18-25-2026-alex-merced-nsjhe",
+      "description": "The LinkedIn Pulse roundup describes proposals on explicit relationship cardinality, a period-keyed join returning a wrong result, and merged PR #803 bringing composable query interfaces with compliance suites. It notes a suggestion to include the work in a coming 0.3.0-incubating release.",
+      "pubDate": "Fri, 27 Nov 2026 14:02:01 GMT",
+      "categories": [
+        "Data management",
+        "Analytic layer",
+        "Software Release",
+        "Query Interface",
+        "Relationship Cardinality",
+        "Compliance Suite",
+        "Semantic Layer",
+        "NEW_TOOL"
       ]
     },
     {
@@ -94,6 +150,21 @@
       ]
     },
     {
+      "title": "LinkedIn essay asks whether AI adoption has changed how organisations think",
+      "link": "https://www.linkedin.com/pulse/your-organisation-has-adopted-ai-changed-how-thinks-andre-yf2lc",
+      "description": "The LinkedIn Pulse excerpt describes generic AI capabilities: machine learning identifying patterns at scale, NLP extracting signal from unstructured text, predictive modelling extending decision horizons, and graph analytics revealing relational structures. It frames these as ways AI could reshape organisational infrastructure.",
+      "pubDate": "Fri, 27 Nov 2026 11:31:05 GMT",
+      "categories": [
+        "AI",
+        "Predictive Modelling",
+        "Graph Analytics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Organizational Infrastructure",
+        "HYPE"
+      ]
+    },
+    {
       "title": "Hard Fork podcast explores how AI is transforming mathematics",
       "link": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
       "description": "The New York Times' Hard Fork podcast episode covers how AI is transforming mathematics, quoting Terence Tao: \"One thing that A.I. has done is that it's given us answers without insight, without understanding.\"",
@@ -129,79 +200,6 @@
         "Run-Length Encoding",
         "Semantic Models",
         "HYPE"
-      ]
-    },
-    {
-      "title": "Retailers weigh liability questions as AI shopping assistants arrive for Black Friday",
-      "link": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
-      "description": "The Guardian reports that retailers are entering unknown territory with AI shopping assistants such as Meta's Muse, which promises to find deals and source gifts, while brands are unlikely to hand agents full control and question liability when bots err.",
-      "pubDate": "Fri, 27 Nov 2026 07:00:56 GMT",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Human-AI Interaction",
-        "Liability",
-        "OPINION_ANALYSIS"
-      ]
-    },
-    {
-      "title": "AutoformBench benchmarks AI agents on Lean 4 formalization of advanced mathematics",
-      "link": "https://arxiv.org/abs/2611.33165",
-      "description": "The arXiv preprint introduces AutoformBench, 341 Lean 4 formalization tasks from 24 advanced mathematical sources, where mathematicians audited target statements and agents must construct missing definitions, lemmas, and supporting infrastructure rather than prove isolated theorems.",
-      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
-      "categories": [
-        "AI",
-        "Formal Verification",
-        "Theorem Proving",
-        "AI Agents",
-        "Benchmarks",
-        "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "Clinically grounded harm taxonomy and MindGuard2 safety model for LLM mental health support",
-      "link": "https://arxiv.org/abs/2611.33263",
-      "description": "The arXiv preprint proposes a taxonomy characterizing harm along what, who, and when dimensions, separating harm characterization from intervention decisions so safety policies can be updated and audited outside model weights; the authors validate it with clinicians and train MindGuard2, a 35B-A3B model.",
-      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
-      "categories": [
-        "AI",
-        "Ontologies",
-        "Large Language Models",
-        "Policy",
-        "Taxonomy",
-        "AI Safety",
-        "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "arXiv preprint proposes constraint-aware test-time scoring for selecting LLM and VLM candidate answers",
-      "link": "https://arxiv.org/abs/2611.33161",
-      "description": "The preprint proposes a scoring framework combining hard checks every candidate answer must pass with softer checks blended into one score, using a drafting model, a configuring model that selects and weights checks, and scoring models. It is applied to tasks including secure code generation (CWEval) and robot manipulation planning (LIBERO with added safety checks).",
-      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
-      "categories": [
-        "AI",
-        "Context layer",
-        "Large Language Models",
-        "Benchmarks",
-        "Vision-Language Model",
-        "Robot Manipulation Planning",
-        "Scoring Framework",
-        "SCIENTIFIC_DISCOVERY"
-      ]
-    },
-    {
-      "title": "arXiv preprint evaluates general-purpose decision models for guiding AI configuration tuning",
-      "link": "https://arxiv.org/abs/2611.33190",
-      "description": "The preprint investigates whether general-purpose decision models, using Jev as a deployed representative, can guide AI configuration tuning as optimizers, performance predictors and region guiders. Across eight tuning tasks, conventional optimizers and predictors mostly outperform it, though region guidance found configurations with lower perplexity than the native tuner.",
-      "pubDate": "Fri, 27 Nov 2026 05:00:00 GMT",
-      "categories": [
-        "AI",
-        "Configuration Tuning",
-        "Performance Prediction",
-        "Optimizer",
-        "Decision Model",
-        "Perplexity",
-        "SCIENTIFIC_DISCOVERY"
       ]
     }
   ]
